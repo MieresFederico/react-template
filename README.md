@@ -14,19 +14,19 @@ React project with the best guidelines for code maintenance
 
 ### Installing
 ```
-* npm i
+npm i
 ```
 
 ### Executing program
 
 #### Dev
 ```
-* npm run dev
+npm run dev
 ```
 
 #### Prod
 ```
-* npm run build
+npm run build
 ```
 
 ## Technologies
